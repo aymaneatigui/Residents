@@ -3,7 +3,7 @@ The project is a website that residents can use.
 Due to potential emergencies that may occur to your neighbors, like a fire incident where the door is closed, the website will allow them to access the phone numbers of all residents in the same building.
 The website also provides emergency numbers and postal codes. Additionally, it offers the ability to add workers who have provided services to a neighbor, such as a housekeeper or plumber.
 <p align="center">
-  <img  height="300" src="src/project_img/home.png">
+  <img  height="300" src="project_img/home.png">
 </p>
 
 
